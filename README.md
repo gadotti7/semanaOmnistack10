@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://i.imgur.com/O04nWsz.png" alt="Omnistack 10" width="700">
-<br>
 Omnistack 10 - DevRadar
 </h1>
 
