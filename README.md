@@ -1,4 +1,5 @@
-Omnistack 10 - DevRadar
+<h1 align="center">
+  Omnistack 10 - DevRadar
 </h1>
 
 <p align="center"> 🚀 DevRadar: Esta foi a aplicação desenvolvida na 10° semana da Ominstack feito pela Rocketseat.
