@@ -25,6 +25,7 @@ yarn dev
 Para iniciar o **Frontend** do React utilize os comandos:
 ```bash
 cd frontend
+cd wb
 yarn install
 yarn start
 ```
