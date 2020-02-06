@@ -8,7 +8,7 @@
 ## Features
 Utilização de API do Github e artifícios de localização com a utilização de:
 
-- **React Js** — Foi utilizado o ReactJs para desenvolvimento da aplicaçõa web.
+- **React Js** — Foi utilizado o ReactJs para desenvolvimento da aplicação web.
 - **React Native** — Foi utilizado o React Native para desenvolvimento da aplicação mobile hibrida
 - **Node Js** — Web framework que permite utilizar javascript tanto no frontend quanto no backend
 
